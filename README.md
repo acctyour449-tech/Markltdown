@@ -209,6 +209,8 @@ docker build -t markitdown:latest .
 docker run --rm -i markitdown:latest < ~/your-file.pdf > output.md
 ```
 
+For broader deployment guidance (including MCP, CI publishing, and a minimal browser-based web app), see [DEPLOYMENT.md](DEPLOYMENT.md).
+
 ## Contributing
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a
